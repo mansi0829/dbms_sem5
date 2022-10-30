@@ -1,0 +1,32 @@
+.footer-distributed {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  padding: 40px 50px;
+}
+
+.footer-distributed .footer-left p {
+  margin: 0;
+}
+
+.footer-distributed .footer-right {
+  float: right;
+  max-width: 180px;
+}
+
+/* Media Queries */
+
+@media (max-width: 600px) {
+  .footer-distributed {
+    padding: 20px 30px;
+  }
+  .footer-distributed .footer-left,
+  .footer-distributed .footer-right {
+    text-align: center;
+  }
+  .footer-distributed .footer-right {
+    float: none;
+    margin: 0 auto 20px;
+  }
+}
