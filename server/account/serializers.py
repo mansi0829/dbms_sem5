@@ -105,3 +105,6 @@ class UserPasswordResetSerializer(serializers.Serializer):
       PasswordResetTokenGenerator().check_token(user, token)
       raise serializers.ValidationError('Token is not Valid or Expired')
   
+
+# class UploadDataSerializer():
+  

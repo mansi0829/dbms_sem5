@@ -73,5 +73,18 @@ class User(AbstractBaseUser):
       return self.is_admin
 
 
+#  Custom Upload Model
+# class Upload(AbstractBaseUser):
+#   carbohydrates = models.CharField(max_length=200)
+#   protiens = models.CharField(max_length=200)
+#   Fats = models.CharField(max_length=200)
+#   vitamins = models.CharField(max_length=200)
+#   tc = models.BooleanField()
+#   is_active = models.BooleanField(default=True)
+#   is_admin = models.BooleanField(default=False)
+#   created_at = models.DateTimeField(auto_now_add=True)
+#   updated_at = models.DateTimeField(auto_now=True)
 
+
+#   REQUIRED_FIELDS = ['name', 'tc']
 
