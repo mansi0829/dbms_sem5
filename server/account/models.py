@@ -74,17 +74,13 @@ class User(AbstractBaseUser):
 
 
 #  Custom Upload Model
-# class Upload(AbstractBaseUser):
-#   carbohydrates = models.CharField(max_length=200)
-#   protiens = models.CharField(max_length=200)
-#   Fats = models.CharField(max_length=200)
-#   vitamins = models.CharField(max_length=200)
-#   tc = models.BooleanField()
-#   is_active = models.BooleanField(default=True)
-#   is_admin = models.BooleanField(default=False)
-#   created_at = models.DateTimeField(auto_now_add=True)
-#   updated_at = models.DateTimeField(auto_now=True)
+class Upload(AbstractBaseUser):
+  carbohydrates = models.CharField(max_length=200)
+  protiens = models.CharField(max_length=200)
+  fats = models.CharField(max_length=200)
+  vitamins = models.CharField(max_length=200)
+  created_at = models.DateTimeField(auto_now_add=True)
+  def __int__ (self):
+    return self.carbohydrates ,self.protiens, self.fats, self.vitamins
 
-
-#   REQUIRED_FIELDS = ['name', 'tc']
 

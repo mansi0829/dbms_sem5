@@ -29,4 +29,18 @@ class Migration(migrations.Migration):
                 'abstract': False,
             },
         ),
+        migrations.CreateModel(
+            name='Upload',
+            fields=[
+                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
+                ('carbohydrates', models.CharField(max_length=200)),
+                ('protiens', models.CharField(max_length=200)),
+                ('fats', models.CharField(max_length=200)),
+                ('vitamins', models.CharField(max_length=200)),
+                ('created_at', models.DateTimeField(auto_now_add=True)),
+            ],
+            options={
+                'abstract': False,
+            },
+        ),
     ]

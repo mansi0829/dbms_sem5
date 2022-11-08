@@ -106,5 +106,9 @@ class UserPasswordResetSerializer(serializers.Serializer):
       raise serializers.ValidationError('Token is not Valid or Expired')
   
 
-# class UploadDataSerializer():
+class UploadDataSerializer(serializers.Serializer):
+  carbohydrates = serializers.CharField(max_length=255)
+  class Meta:
+    model = User
+    fields = ['carbohydrates', 'protiens', 'fats', 'vitamins']
   

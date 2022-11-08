@@ -1,9 +1,7 @@
 import axios from "axios";
-import { email } from "./validators";
-const token = localStorage.getItem("userinfo")
 
 const backend = axios.create({
-  baseURL: `${process.env.REACT_APP_ANTONS_API}`,
+  baseURL: "http://localhost:8000/api",
 });
 
 //auth
@@ -18,6 +16,10 @@ export const login = (data, config) => {
 
 export const getUserByToken = (token) => {
   return backend.get("/user/profile/", {
-    headers: { Authorization: `${token}` },
+    headers: { Authorization: `Bearer ${token}` },
   });
+};
+
+export const uploadData = (data) => {
+  return backend.get("/user/upload/", data);
 };

@@ -1,7 +1,7 @@
 from rest_framework.response import Response
 from rest_framework import status
 from rest_framework.views import APIView
-from account.serializers import SendPasswordResetEmailSerializer, UserChangePasswordSerializer, UserLoginSerializer, UserPasswordResetSerializer, UserProfileSerializer, UserRegistrationSerializer
+from account.serializers import SendPasswordResetEmailSerializer, UserChangePasswordSerializer, UserLoginSerializer, UserPasswordResetSerializer, UserProfileSerializer, UserRegistrationSerializer, UploadDataSerializer
 from django.contrib.auth import authenticate
 from account.renderers import UserRenderer
 from rest_framework_simplejwt.tokens import RefreshToken
@@ -67,12 +67,15 @@ class UserPasswordResetView(APIView):
     serializer.is_valid(raise_exception=True)
     return Response({'msg':'Password Reset Successfully'}, status=status.HTTP_200_OK)
 
-# class UploadData(APIView):
-#   renderer_classes = [UserRenderer]
-#   def post(self, request, format=None):
-#     serializer = UploadDataSerializer(data=request.data)
-#     serializer.is_valid(raise_exception=True)
-#     user = serializer.save()
-#     token = get_tokens_for_user(user)
-#     return Response({'token':token, 'msg':'Registration Successful'}, status=status.HTTP_201_CREATED)
+
+class UploadData(APIView):
+  renderer_classes = [UserRenderer]
+  def post(self, request, format=None):
+    serializer = UploadDataSerializer(data=request.data)
+    serializer.is_valid(raise_exception=True)
+    carbohydrates = serializer.data.get('carbohydrates')
+    protiens = serializer.data.get('protiens')
+    fats = serializer.data.get('fats')
+    vitamins = serializer.data.get('vitamins')
+    return Response({'carbohydrates': carbohydrates,'protiens':protiens, 'fats':fats,'vitamins':vitamins,'msg':'Upload Successful'}, status=status.HTTP_201_CREATED)
    

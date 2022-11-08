@@ -1,7 +1,7 @@
 import { LOGIN, LOGOUT} from "./actions";
 
 const initialState = {
-  token: localStorage.getItem("userinfo"),
+  token: localStorage.getItem("dbms_token"),
   isAuthenticated: false,
   userData: {},
 };
@@ -14,11 +14,12 @@ export default function auth(state = initialState, action) {
       return {
         ...state,
         userData: payload.data.data,
+        isAuthenticated: true,
         token:payload.data.data.token
       };
     }
     case LOGOUT: {
-      localStorage.removeItem("userinfo");
+      localStorage.removeItem("dbms_token");
       return {
         ...state,
         token: null,

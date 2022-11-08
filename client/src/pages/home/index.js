@@ -1,7 +1,25 @@
 import { Link } from "react-router-dom";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { connect } from "react-redux";
+import { Requests } from "../../utils/Index";
+import { ToastContainer, toast } from "react-toastify";
+
 const LandingPage = (props) => {
+  const token = localStorage.getItem("dbms_token");
+  const [data, setData] = useState("");
+  useEffect(() => {
+    Requests.getUserByToken(token)
+      .then((res) => {
+        toast.success("Logged in");
+        setData(res.data);
+        console.log(res.data.name);
+        props.login(res);
+      })
+      .catch((err) => {
+        console.log(err.response.data.error.message);
+        toast.error(err.response.data.error.message);
+      });
+  }, []);
   return (
     <div className="bg-gray-900">
       <div className="relative pt-16 pb-32 flex content-center items-center justify-center ">
@@ -12,11 +30,10 @@ const LandingPage = (props) => {
                 <h1 className="text-white font-semibold text-5xl pt-12 flex justify-center">
                   Welcome
                 </h1>
-                {props.isAuthenticated ? (
+                {token ? (
                   <div className="text-xl">
-                    <h1 className="text-white text-3xl pt-8">
-                      {props.userData.name}
-                    </h1>
+                    <h1 className="text-white text-3xl pt-8">{data.name}</h1>
+                    <span>{data.email}</span>
                   </div>
                 ) : (
                   <p className="mt-4 text-lg text-gray-300">

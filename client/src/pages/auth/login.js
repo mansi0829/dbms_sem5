@@ -7,7 +7,6 @@ import { useNavigate } from "react-router-dom";
 import { connect } from "react-redux";
 import { login } from "../../store/actions";
 import { ToastContainer, toast } from "react-toastify";
-import { number } from "yup/lib/locale";
 
 const Login = (props) => {
   const [loading, setLoading] = useState(false);
@@ -38,12 +37,10 @@ const Login = (props) => {
               .then((res) => {
                 // setEmail(res.data.data.email);
                 toast.success("Logged in");
-                console.log(res.data.token.refresh);
-                localStorage.setItem("userinfo", res.data.token.refresh);
-                setLoading(false);
+                navigate("/");
+                localStorage.setItem("dbms_token", res.data.token.access);
                 props.login(res);
                 setLoading(false);
-                navigate("/");
               })
               .catch((err) => {
                 setLoading(false);

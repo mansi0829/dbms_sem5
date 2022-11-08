@@ -10,11 +10,12 @@ import { connect } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import Loader from "./components/Loader/Loader";
 import Footer from "./components/Footer/Footer";
+import Upload from "./pages/upload/upload";
 
 function App(props) {
   const [isLoading, setisLoading] = useState(false);
+  const token = localStorage.getItem("dbms_token");
   useEffect(() => {
-    const token = localStorage.getItem("userinfo");
     if (token) {
       setisLoading(true);
       Requests.getUserByToken(token)
@@ -45,9 +46,9 @@ function App(props) {
             theme="dark"
           />
           <Routes>
-            {props.isAuthenticated ? (
+            {token ? (
               <>
-                <Route path="/loggedin" element={<Login />} />
+                <Route path="/user/upload" element={<Upload />} />
               </>
             ) : (
               <>
