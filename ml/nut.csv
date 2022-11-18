@@ -1,0 +1,339 @@
+Food,Measure,Grams,Calories,Proein,Fa,Sa.Fa,Fiber,Carbs,Caegory,Resul,
+Cows' milk,1 q.,976,660,32,40,36,0,48,Dairy producs,Healhy,1
+Milk skim,1 q.,984,360,36,,,0,52,Dairy producs,Healhy,1
+Buermilk,1 cup,246,127,9,5,4,0,13,Dairy producs,Healhy,0
+"Evaporaed, undilued",1 cup,252,345,16,20,18,0,24,Dairy producs,Healhy,0
+Fortified milk,1 cups,237,229,14,7,3,0,20,Dairy producs,Healhy,1
+Powdered milk,1 cup,103,515,27,28,24,0,39,Dairy producs,0,0
+"skim, insan",1 1/3 cups,85,290,30,0,0,0,42,Dairy producs,,1
+"skim, non-insan",2/3 cup,85,290,30,0,0,1,42,Dairy producs,,1
+Goas' milk,1 cup,244,165,8,10,8,0,11,Dairy producs,Healhy,1
+(1/2 cup ice cream),2 cups,540,690,24,24,22,0,70,Dairy producs,,0
+Cocoa,1 cup,252,235,8,11,10,0,26,Dairy producs,Healhy,1
+skim. milk,1 cup,250,128,18,4,3,1,13,Dairy producs,,1
+(cornsarch),1 cup,248,275,9,10,9,0,40,Dairy producs,,0
+Cusard,1 cup,248,285,13,14,11,0,28,Dairy producs,,0
+Ice cream,1 cup,188,300,6,18,16,0,29,Dairy producs,,1
+Ice milk,1 cup,190,275,9,10,9,0,32,Dairy producs,,1
+Cream or half-and-half,1/2 cup,120,170,4,15,13,0,5,Dairy producs,,0
+or whipping,1/2 cup,119,430,2,44,27,1,3,Dairy producs,,1
+Cheese,1 cup,225,240,30,11,10,0,6,Dairy producs,Healhy,0
+uncreamed,1 cup,225,195,38,0,0,0,6,Dairy producs,,0
+Cheddar,1-in. cube,17,70,4,6,5,0,,Dairy producs,,0
+"Cheddar, graed cup",1/2 cup,56,226,14,19,17,0,1,Dairy producs,,1
+Cream cheese,1 oz.,28,105,2,11,10,0,1,Dairy producs,,1
+Processed cheese,1 oz.,28,105,7,9,8,0,,Dairy producs,,1
+Roquefor ype,1 oz.,28,105,6,9,8,0,,Dairy producs,,1
+Swiss,1 oz.,28,105,7,8,7,0,,Dairy producs,,0
+Eggs raw,2,100,150,12,12,10,0,,Dairy producs,Healhy,1
+Eggs Scrambled or fried,2,128,220,13,16,14,0,1,Dairy producs,Healhy,1
+Yolks,2,34,120,6,10,8,0,,"Fas, Oils, Shorenings",,0
+Buer,1,14,100,,11,10,0,,"Fas, Oils, Shorenings",Healhy,0
+Buer,1/2 cup,112,113,114,115,116,117,118,"Fas, Oils, Shorenings",,0
+Buer,1/4 lb.,112,113,114,115,116,117,118,"Fas, Oils, Shorenings",,1
+Hydrogenaed cooking fa,1/2 cup,100,665,0,100,88,0,0,"Fas, Oils, Shorenings",Unhealhy,0
+Lard,1/2 cup,110,992,0,110,92,0,0,"Fas, Oils, Shorenings",,1
+Margarine,1/2 cup,112,806,,91,76,0,,"Fas, Oils, Shorenings",Healhy,0
+"Margarine, 2 pa or",1 .,14,100,,11,9,0,,"Fas, Oils, Shorenings",,1
+Mayonnaise,1 .,15,110,,12,5,0,,"Fas, Oils, Shorenings",Healhy,0
+Corn oil,1 .,14,125,0,14,5,0,0,"Fas, Oils, Shorenings",Unhealhy,1
+Olive oil,1,14,125,0,14,3,0,0,"Fas, Oils, Shorenings",Healhy,1
+Safflower seed oil,1 .,14,125,0,14,3,0,0,"Fas, Oils, Shorenings",,1
+French dressing,1 .,15,60,,6,2,0,2,"Fas, Oils, Shorenings",Unhealhy,1
+housand Island sauce,1 .,15,75,,8,3,0,1,"Fas, Oils, Shorenings",Unhealhy,1
+Sal pork,2 oz.,60,470,3,55,,0,0,"Mea, Poulry",Unhealhy,1
+Bacon,2 slices,16,95,4,8,7,0,1,"Mea, Poulry",Unhealhy,0
+Beef,3 oz.,85,245,23,16,15,0,0,"Mea, Poulry",Healhy,0
+Beef,6 oz.,85,490,46,32,30,0,0,"Mea, Poulry",Unhealhy,0
+Hamburger,3 oz.,85,245,21,17,15,0,0,"Mea, Poulry",Unhealhy,0
+Ground lean,3 oz.,85,185,24,10,9,0,0,"Mea, Poulry",,0
+Roas beef,3 oz.,85,390,16,36,35,0,0,"Mea, Poulry",Unhealhy,1
+Seak,3 oz.,85,330,20,27,25,0,0,"Mea, Poulry",Healhy,0
+Seak,5 oz.,85,330,20,27,25,0,0,"Mea, Poulry",Unhealhy,0
+"Seak, lean, as round",3 oz.,85,220,24,12,11,0,0,"Mea, Poulry",,0
+Corned beef,3 oz.,85,185,22,10,9,0,0,"Mea, Poulry",Healhy,0
+Corned beef hash canned,3 oz.,85,120,12,8,7,,6,"Mea, Poulry",,1
+Corned beef hash Dried,2 oz.,56,115,19,4,4,0,0,"Mea, Poulry",,0
+Po-pie,1 pie,227,480,18,28,25,,32,"Mea, Poulry",Unhealhy,1
+Corned beef hash Sew,1 cup,235,185,15,10,9,,15,"Mea, Poulry",,1
+chicken,3 oz.,85,185,23,9,7,0,0,"Mea, Poulry",Healhy,1
+"Fried, breas or leg and high chicken",3 oz.,85,245,25,15,11,0,0,"Mea, Poulry",,0
+Roased chicken,3 1/2 oz.,100,290,25,20,16,0,0,"Mea, Poulry",Healhy,1
+"Chicken livers, fried",3 med.,100,140,22,14,12,0,2.3,"Mea, Poulry",,0
+"Duck, domesic",3 1/2 oz.,100,370,16,28,0,0,0,"Mea, Poulry",,0
+"Lamb, chop, broiled",4 oz.,115,480,24,35,33,0,0,"Mea, Poulry",,1
+Leg roased,3 oz.,86,314,20,14,14,0,0,"Mea, Poulry",,1
+"Shoulder, braised",3 oz.,85,285,18,23,21,0,0,"Mea, Poulry",,1
+"Pork, chop, 1 hick",3 1/2 oz.,100,260,16,21,18,0,0,"Mea, Poulry",,1
+Ham pan-broiled,3 oz.,85,290,16,22,19,0,0,"Mea, Poulry",,1
+"Ham, as ",2 oz.,57,170,13,13,11,0,0,"Mea, Poulry",,1
+"Ham, canned, spiced",2 oz.,57,165,8,14,12,0,1,"Mea, Poulry",,0
+Pork roas,3 oz.,85,310,21,24,21,0,0,"Mea, Poulry",,1
+Pork sausage,3 1/2 oz.,100,475,18,44,40,0,0,"Mea, Poulry",,0
+urkey,3 1/2 oz.,100,265,27,15,0,0,0,"Mea, Poulry",,0
+Veal,3 oz.,85,185,23,9,8,0,0,"Mea, Poulry",,0
+Roas,3 oz.,85,305,13,14,13,0,0,"Mea, Poulry",,0
+Clams,3 oz.,85,87,12,1,0,0,2,"Fish, Seafood",,0
+Cod,3 1/2 oz.,100,170,28,5,0,0,0,"Fish, Seafood",,1
+Crab mea,3 oz.,85,90,14,2,0,0,1,"Fish, Seafood",,0
+Fish sicks fried,5,112,200,19,10,5,0,8,"Fish, Seafood",,0
+Flounder,3 1/2 oz.,100,200,30,8,0,0,0,"Fish, Seafood",,1
+Haddock,3 oz.,85,135,16,5,4,0,6,"Fish, Seafood",,0
+Halibu,3 1/2 oz.,100,182,26,8,0,0,0,"Fish, Seafood",,0
+Herring,1 small,100,211,22,13,0,0,0,"Fish, Seafood",,1
+Lobser,aver.,100,92,18,1,0,0,,"Fish, Seafood",,1
+Mackerel,3 oz.,85,155,18,9,0,0,0,"Fish, Seafood",,1
+Oysers,6-8 med.,230,231,232,233,234,235,236,"Fish, Seafood",,1
+Oyser sew,1 cup,85,125,19,6,1,0,0,"Fish, Seafood",,0
+Salmon,3 oz.,85,120,17,5,1,0,0,"Fish, Seafood",,1
+Sardines,3 oz.,85,180,22,9,4,0,0,"Fish, Seafood",,1
+Scallops,3 1/2 oz.,100,104,18,8,0,0,10,"Fish, Seafood",,0
+Shad,3 oz.,85,170,20,10,0,0,0,"Fish, Seafood",,1
+Shrimp,3 oz.,85,110,23,1,0,0,0,"Fish, Seafood",,1
+Swordfish,1 seak,100,180,27,6,0,0,0,"Fish, Seafood",,1
+una,3 oz.,85,170,25,7,3,0,0,"Fish, Seafood",,1
+Arichoke,1 large,100,8,2,,,2,10,Vegeables A-E,,1
+Asparagus,6 spears,96,18,1,,,0.5,3,Vegeables A-E,,0
+Beans,1 cup,125,25,1,,,0.8,6,Vegeables A-E,,1
+Lima,1 cup,160,140,8,,,3,24,Vegeables A-E,,1
+"Lima, dry, cooked",1 cup,192,260,16,,,2,48,Vegeables A-E,,1
+"Navy, baked wih pork",3/4 cup,200,250,11,6,6,2,37,Vegeables A-E,,1
+Red kidney,1 cup,260,230,15,1,0,2.5,42,Vegeables A-E,,0
+Bean sprous,1 cup,50,17,1,,0,0.3,3,Vegeables A-E,,1
+Bee greens,1 cup,100,27,2,,0,1.4,6,Vegeables A-E,,1
+Beeroos,1 cup,165,1,12,0,,,0.8,Vegeables A-E,,1
+Broccoli,1 cup,150,45,5,,0,1.9,8,Vegeables A-E,,1
+Brussels sprous,1 cup,130,60,6,,0,1.7,12,Vegeables A-E,,1
+Sauerkrau,1 cup,150,32,1,,0,1.2,7,Vegeables A-E,,1
+Seamed cabbage,1 cup,170,40,2,,0,1.3,9,Vegeables A-E,,1
+Carros,1 cup,150,45,1,,0,0.9,10,Vegeables A-E,,0
+"Raw, graed",1 cup,110,45,1,,0,1.2,10,Vegeables A-E,,1
+"Srips, from raw",1 mad.,50,20,,,0,0.5,5,Vegeables A-E,,0
+Cauliflower,1 cup,120,30,3,,0,1,6,Vegeables A-E,,0
+Celery,1 cup,100,20,1,,0,1,4,Vegeables A-E,,1
+Salk raw,1 large,40,5,1,,0,0.3,1,Vegeables A-E,,1
+Chard seamed,1 cup,150,30,2,,0,1.4,7,Vegeables A-E,,1
+Collards,1 cup,150,51,5,,0,2,8,Vegeables A-E,,0
+Corn,1 ear,100,92,3,1,,0.8,21,Vegeables A-E,,1
+cooked or canned,1 cup,200,170,5,,0,1.6,41,Vegeables A-E,,1
+Cucumbers,8,50,6,,0,0,0.2,1,Vegeables A-E,,0
+Dandelion greens,1 cup,180,80,5,1,0,3.2,16,Vegeables A-E,,0
+Eggplan,1 cup,180,30,2,,0,1,9,Vegeables A-E,,1
+Endive,2 oz.,57,10,1,,0,0.6,2,Vegeables A-E,,1
+Kale,1 cup,110,45,4,1,0,0.9,8,Vegeables F-P,,1
+Kohlrabi,1 cup,140,40,2,,0,1.5,9,Vegeables F-P,,0
+"Lambs quarers, seamed",1 cup,150,48,5,,0,3.2,7,Vegeables F-P,,1
+Lenils,1 cup,200,212,15,,0,2.4,38,Vegeables F-P,,0
+Leuce,1/4 head,100,14,1,,0,0.5,2,Vegeables F-P,,0
+Iceberg,1/4 head,100,13,,,0,0.5,3,Vegeables F-P,,1
+Mushrooms canned,4,120,12,2,,0,,4,Vegeables F-P,,1
+Musard greens,1,140,30,3,,0,1.2,6,Vegeables F-P,,0
+Okra,1 1/3 cups,100,32,1,,0,1,7,Vegeables F-P,,1
+Onions,1,210,80,2,,0,1.6,18,Vegeables F-P,,1
+"Raw, green",6 small,50,22,,,0,1,5,Vegeables F-P,,0
+Parsley,2 .,50,2,,,0,,,Vegeables F-P,,0
+Parsnips,1 cup,155,95,2,1,0,3,22,Vegeables F-P,,1
+Peas,1 cup,100,66,3,,0,0.1,13,Vegeables F-P,,0
+"Fresh, seamed peas",1 cup,100,70,5,,0,2.2,12,Vegeables R-Z,,1
+Frozen peas,1 cup,100,,5,,0,1.8,12,Vegeables R-Z,,0
+Spli cooked peas,4 cups,100,115,8,,0,0.4,21,Vegeables R-Z,,0
+heaed peas,1 cup,100,53,3,,0,1,10,Vegeables R-Z,,0
+Peppers canned,1 pod,38,10,,,0,,2,Vegeables R-Z,,0
+"Peppers Raw, green, swee",1 large,100,25,1,,0,1.4,6,Vegeables R-Z,,1
+Peppers wih beef and crumbs,1 med.,150,255,19,9,8,1,24,Vegeables R-Z,,1
+"Poaoes, baked",1 med.,100,100,2,,0,0.5,22,Vegeables R-Z,,1
+French-fried,10 pieces,60,155,-1,7,3,0.4,20,Vegeables R-Z,,0
+Poaoes Mashed wih milk and buer,1 cup,200,230,4,12,11,0.7,28,Vegeables R-Z,,0
+"Poaoes, pan-ried",3/4 cup,100,268,4,14,6,0.4,33,Vegeables R-Z,,0
+Scalloped wih cheese poaoes,3/4 cup,100,145,6,8,7,0.4,14,Vegeables R-Z,,1
+Seamed poaoes before peeling,1 med.,100,80,2,,0,0.4,19,Vegeables R-Z,,1
+Poao chips,10,20,110,1,7,4,,10,Vegeables R-Z,Unhealhy,1
+Radishes,5 small,50,10,,0,0,0.3,2,Vegeables R-Z,,1
+Ruabagas,4 cups,100,32,,0,0,1.4,8,Vegeables R-Z,,0
+Soybeans,1 cup,200,260,22,11,0,3.2,20,Vegeables R-Z,,0
+Spinach,1 cup,100,26,3,,0,1,3,Vegeables R-Z,,0
+Squash,1 cup,210,35,1,,0,0.6,8,Vegeables R-Z,,0
+"Winer, mashed",1 cup,200,95,4,,0,2.6,23,Vegeables R-Z,,1
+Swee poaoes,1 med.,110,155,2,1,0,1,36,Vegeables R-Z,,1
+Candied,1 med.,175,235,2,6,5,1.5,80,Vegeables R-Z,,1
+omaoes,1 cup,240,50,2,,0,1,9,Vegeables R-Z,Healhy,0
+"Raw, 2 by 2 1/2",1 med.,150,30,1,,0,0.6,6,Vegeables R-Z,,0
+omao juice,1 cup,240,50,2,,0,0.6,10,Vegeables R-Z,Healhy,0
+omao casup,1 .,17,15,,,0,,4,Vegeables R-Z,,1
+urnip greens,1 cup,145,45,4,1,0,1.8,8,Vegeables R-Z,,1
+"urnips, seamed",1 cup,155,40,1,,0,1.8,9,Vegeables R-Z,,1
+"Waercress sems, raw",1 cup,50,9,1,,0,0.3,1,Fruis A-F,,0
+Apple juice canned,1 cup,250,125,,0,0,0,34,Fruis A-F,,0
+Apple vinegar,1/3 cup,100,14,,0,0,0,3,Fruis A-F,Healhy,0
+"Apples, raw",1 med,130,70,,,0,1,18,Fruis A-F,Healhy,0
+Sewed or canned,1 cup,240,100,,,0,2,26,Fruis A-F,,0
+Apricos,1 cup,250,220,2,,0,1,57,Fruis A-F,,1
+"Dried, uncooked",1/2 cup,75,220,4,,0,1,50,Fruis A-F,,1
+Fresh,3 med.,114,55,1,,0,0.7,14,Fruis A-F,,1
+"Necar, or juice",1 cup,250,140,1,,0,2,36,Fruis A-F,,0
+Avocado,1/2 large,108,185,2,18,12,1.8,6,Fruis A-F,,0
+Banana,1 med.,150,85,1,,0,0.9,23,Fruis A-F,Healhy,1
+Blackberries,1 cup,144,85,2,1,0,6.6,19,Fruis A-F,Healhy,0
+Blueberries,1 cup,250,245,1,,0,2,65,Fruis A-F,Healhy,0
+Canaloupe,1/2 med.,380,40,1,,0,2.2,9,Fruis A-F,,1
+Cherries,1 cup,257,100,2,1,0,2,26,Fruis A-F,Healhy,0
+"Fresh, raw",1 cup,114,65,1,,0,0.8,15,Fruis A-F,,1
+Cranberry sauce sweeened,1 cup,277,530,,,0,1.2,142,Fruis A-F,,1
+Daes,1 cup,178,505,4,,0,3.6,134,Fruis A-F,Healhy,1
+Figs,2,42,120,2,,0,1.9,30,Fruis A-F,,1
+"Fresh, raw figs",3 med.,114,90,2,,0,1,22,Fruis A-F,,0
+figs Canned wih syrup,3,115,130,1,,0,1,32,Fruis A-F,,0
+"Frui cockail, canned",1 cup,256,195,1,,0,0.5,50,Fruis A-F,,0
+Grapefrui secions,1 cup,250,170,1,,0,0.5,44,Fruis G-P,,0
+"Grapefrui, fresh, 5"" diameer",1/2,285,50,1,,,1,14,Fruis G-P,,0
+Grapefrui juice,1 cup,250,100,1,,0,1,24,Fruis G-P,,1
+Grapes,1 cup,153,70,1,,0,0.8,16,Fruis G-P,Healhy,0
+"European, as Musca, okay",1 cup,160,100,1,,0,0.7,26,Fruis G-P,,0
+Grape juice,1 cup,250,160,1,,0,,42,Fruis G-P,Healhy,0
+Lemon juice,1/2 cup,125,30,,,0,,10,Fruis G-P,Healhy,1
+Lemonade concenraefrozen,6-oz. can,220,430,,,0,,112,Fruis G-P,,1
+Limeade concenrae frozen,6-oz. can,218,405,,,0,,108,Fruis G-P,,1
+Olives large,10,65,72,1,10,9,0.8,3,Fruis G-P,,1
+OlivesRipe,10,65,105,1,13,12,1,1,Fruis G-P,,1
+"Oranges 3"" diameer",1 med.,180,60,2,,,1,16,Fruis G-P,Healhy,0
+Orange juice,8 oz. or,250,112,2,,0,0.2,25,Fruis G-P,,0
+Frozen,6-oz. can,210,330,2,,,0.4,78,Fruis G-P,,1
+Papaya,1/2 med.,200,75,1,,0,1.8,18,Fruis G-P,Healhy,0
+Peaches,1 cup,257,200,1,,0,1,52,Fruis G-P,Healhy,0
+"Fresh, raw",1 med.,114,35,1,,0,0.6,10,Fruis G-P,Healhy,0
+Pears,1 cup,255,195,1,,0,2,50,Fruis G-P,Healhy,0
+"Raw, 3 by 2V",1 med.,182,100,1,1,0,2,25,Fruis G-P,Healhy,0
+Persimmons,1 med.,125,75,1,,0,2,20,Fruis G-P,Healhy,1
+Pineapple,1 large slice,122,95,,,0,0.4,26,Fruis G-P,Healhy,0
+Pineapple Crushed,1 cup,260,205,1,,0,0.7,55,Fruis G-P,Healhy,0
+"Raw, diced",1 cup,140,75,1,,0,0.6,19,Fruis G-P,,1
+Pineapple juice,1 cup,250,120,1,,0,0.2,32,Fruis G-P,Healhy,0
+Plums,1 cup,256,185,1,,0,0.7,50,Fruis G-P,,0
+"Raw, 2"" diameer",1,60,30,,,0,0.2,7,Fruis G-P,,1
+Prunes,1 cup,270,300,3,1,0,0.8,81,Fruis G-P,,0
+Prune juice,1 cup,240,170,1,,0,0.7,45,Fruis G-P,,0
+Raisins,1/2 cup,88,230,2,,0,0.7,82,Fruis R-Z,Healhy,1
+Raspberries,1/2 cup,100,100,,,0,2,25,Fruis R-Z,Healhy,0
+"Raw, red",3/4 cup,100,57,,,0,5,14,Fruis R-Z,,1
+Rhubarb sweeened,1 cup,270,385,1,,0,1.9,98,Fruis R-Z,,0
+Srawberries,1 cup,227,242,1,,0,1.3,60,Fruis R-Z,Healhy,1
+Raw,1 cup,149,54,,,0,1.9,12,Fruis R-Z,,1
+angerines,I med.,114,40,1,,0,1,10,Fruis R-Z,,1
+Waermelon,1 wedge,925,120,2,1,0,3.6,29,Fruis R-Z,Healhy,0
+Biscuis,1,38,130,3,4,3,,18,"Breads, cereals, fasfood,grains",,1
+Bran flakes,1 cup,25,117,3,,0,0.1,32,"Breads, cereals, fasfood,grains",,1
+"Bread, cracked whea",1 slice,23,60,2,1,1,0.1,12,"Breads, cereals, fasfood,grains",,0
+Rye,1 slice,23,55,2,1,1,0.1,12,"Breads, cereals, fasfood,grains",,1
+"Whie, 20 slices, or",1-lb. loaf,454,1.225,39,15,12,9,229,"Breads, cereals, fasfood,grains",,0
+Whole-whea,1-lb. loaf,454,1.1,48,14,10,67.5,216,"Breads, cereals, fasfood,grains",,1
+Whole-whea,1 slice,23,55,2,1,0,0.31,11,"Breads, cereals, fasfood,grains",,1
+Corn bread ground meal,1 serving,50,100,3,4,2,0.3,15,"Breads, cereals, fasfood,grains",,0
+Cornflakes,1 cup,25,110,2,,0,0.1,25,"Breads, cereals, fasfood,grains",,1
+Corn gris cooked,1 cup,242,120,8,,0,0.2,27,"Breads, cereals, fasfood,grains",,1
+Corn meal,1 cup,118,360,9,4,2,1.6,74,"Breads, cereals, fasfood,grains",,1
+Crackers,2 med.,14,55,1,1,0,,10,"Breads, cereals, fasfood,grains",Unhealhy,0
+"Soda, 2 1/2 square",2,11,45,1,1,0,,8,"Breads, cereals, fasfood,grains",Unhealhy,0
+Farina,1 cup,238,105,3,,0,8,22,"Breads, cereals, fasfood,grains",,1
+Flour,1 cup,110,460,39,22,0,2.9,33,"Breads, cereals, fasfood,grains",,0
+Whea (all purpose),1 cup,110,400,12,1,0,0.3,84,"Breads, cereals, fasfood,grains",,1
+Whea (whole),1 cup,120,390,13,2,0,2.8,79,"Breads, cereals, fasfood,grains",,1
+Macaroni,1 cup,140,155,5,1,0,0.1,32,"Breads, cereals, fasfood,grains",Unhealhy,0
+Baked wih cheese,1 cup,220,475,18,25,24,,44,"Breads, cereals, fasfood,grains",Unhealhy,0
+Muffins,1,48,135,4,5,4,,19,"Breads, cereals, fasfood,grains",Unhealhy,0
+Noodles,1 cup,160,200,7,2,2,0.1,37,"Breads, cereals, fasfood,grains",Unhealhy,0
+Oameal,1 cup,236,150,5,3,2,4.6,26,"Breads, cereals, fasfood,grains",,1
+"Pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,"Breads, cereals, fasfood,grains",,1
+"Whea, pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,"Breads, cereals, fasfood,grains",,0
+"Pizza 14"" diam.",1 secion,75,180,8,6,5,,23,"Breads, cereals, fasfood,grains",Unhealhy,0
+Popcorn saled,2 cups,28,152,3,7,2,0.5,20,"Breads, cereals, fasfood,grains",Unhealhy,0
+Puffed rice,1 cup,14,55,,,0,,12,"Breads, cereals, fasfood,grains",,0
+Puffed whea presweeened,1 cup,28,105,1,,0,0.6,26,"Breads, cereals, fasfood,grains",,0
+Rice,1 cup,208,748,15,3,0,1.2,154,"Breads, cereals, fasfood,grains",,0
+Convered,1 cup,187,677,14,,0,0.4,142,"Breads, cereals, fasfood,grains",,0
+Whie,1 cup,191,692,14,,0,0.3,150,"Breads, cereals, fasfood,grains",,0
+Rice flakes,1 cup,30,115,2,,0,0.1,26,"Breads, cereals, fasfood,grains",Healhy,1
+Rice polish,1/2 cup,50,132,6,6,0,1.2,28,"Breads, cereals, fasfood,grains",,1
+Rolls,1 large,50,411,3,12,11,0.1,23,"Breads, cereals, fasfood,grains",Unhealhy,0
+of refined flour,1,38,115,3,2,2,,20,"Breads, cereals, fasfood,grains",,0
+whole-whea,1,40,102,4,1,0,0.1,20,"Breads, cereals, fasfood,grains",,0
+Spaghei wih mea sauce,1 cup,250,285,13,10,6,0.5,35,"Breads, cereals, fasfood,grains",Unhealhy,0
+wih omaoes and cheese,1 cup,250,210,6,5,3,0.5,36,"Breads, cereals, fasfood,grains",,1
+Spanish rice,1 cup,250,217,4,4,0,1.2,40,"Breads, cereals, fasfood,grains",Healhy,1
+Shredded whea biscui,1,28,100,3,1,0,0.7,23,"Breads, cereals, fasfood,grains",,1
+Waffles,1,75,240,8,9,1,0.1,30,"Breads, cereals, fasfood,grains",Unhealhy,0
+Whea germ,1 cup,68,245,17,7,3,2.5,34,"Breads, cereals, fasfood,grains",,1
+Whea-germ cereal oased,1 cup,65,260,20,7,3,2.5,36,"Breads, cereals, fasfood,grains",,0
+Whea meal cereal unrefined,3/4 cup,30,103,4,1,0,0.7,25,"Breads, cereals, fasfood,grains",,0
+"Whea, cooked",3/4 cup,200,275,12,1,0,4.4,35,"Breads, cereals, fasfood,grains",,0
+Bean soups,1 cup,250,190,8,5,4,0.6,30,Soups,Healhy,0
+Beef soup,1 cup,250,100,6,4,4,0.5,11,Soups,,0
+Bouillon,1 cup,240,24,5,0,0,0,0,Soups,,0
+chicken soup,1 cup,250,75,4,2,2,0,10,Soups,Healhy,0
+Clam chowder,1 cup,255,85,5,2,8,0.5,12,Soups,,0
+Cream soups,1 cup,255,200,7,12,11,1.2,18,Soups,,1
+Noodle,1 cup,250,115,6,4,3,0.2,13,Soups,Unhealhy,0
+Spli-pea soup,1 cup,250,147,8,3,3,0.5,25,Soups,,0
+omao soup,1 cup,245,175,6,7,6,0.5,22,Soups,,0
+Vegeable,1 cup,250,80,4,2,2,0,14,Soups,Healhy,1
+Apple bey,1 serving,100,150,1,4,0,0.5,29,"Dessers, swees",,0
+Bread pudding,3/4 cup,200,374,11,12,11,0.2,56,"Dessers, swees",,1
+Cakes,1 slice,40,110,3,,0,0,23,"Dessers, swees",Healhy,1
+Chocolae fudge,1 slice,120,420,5,14,12,0.3,70,"Dessers, swees",,1
+Cupcake,1,50,160,3,3,2,,31,"Dessers, swees",,0
+Frui cake,1 slice,30,105,2,4,3,0.2,17,"Dessers, swees",,1
+Gingerbread,1 slice,55,180,2,7,6,,28,"Dessers, swees",,0
+"Plain, wih no icing",1 slice,55,180,4,5,4,,31,"Dessers, swees",,0
+Sponge cake,1 slice,40,115,3,2,2,0,22,"Dessers, swees",,0
+Candy,5,25,104,,3,3,0,19,"Dessers, swees",,1
+Chocolae creams,2,30,130,,4,4,0,24,"Dessers, swees",,0
+Fudge,2 pieces,90,370,,12,11,0.1,80,"Dessers, swees",,0
+Hard candies,1 oz.,28,90,,0,0,0,28,"Dessers, swees",,0
+Marshmallows,5,30,98,1,0,0,0,23,"Dessers, swees",,0
+Milk chocolae,2-oz. bar,56,290,2,6,6,0.2,44,"Dessers, swees",,0
+Chocolae syrup,2 .,40,80,,,,0,22,"Dessers, swees",,0
+Doughnus,1,33,135,2,7,4,,17,"Dessers, swees",Unhealhy,0
+"Gelain, made wih waer",1 cup,239,155,4,,,0,36,"Dessers, swees",,1
+Honey,2 .,42,120,,0,0,0,30,"Jams, Jellies",,0
+Ice cream,2 cups,300,250,0,0,12,10,0,"Dessers, swees",,1
+Ices,1 cup,150,117,0,0,0,0,48,"Dessers, swees",,1
+preserves,1 .,20,55,0,0,0,,14,"Jams, Jellies",,0
+Jellies,1 .,20,50,0,0,0,0,13,"Jams, Jellies",,0
+Molasses,1 .,20,45,0,0,0,8,11,"Jams, Jellies",,1
+Cane Syrup,1 .,20,50,0,0,0,0,13,"Jams, Jellies",,0
+"9"" diam. pie",1 slice,135,330,3,13,11,0.1,53,"Dessers, swees",,1
+Cherry Pie,1 slice,135,340,3,13,11,0.1,55,"Dessers, swees",,0
+Cusard,1 slice,130,265,7,11,10,0,34,"Dessers, swees",Healhy,0
+Powdered Cusard,,,,,,,,,,,1
+Lemon meringue,1 slice,120,300,4,12,10,0.1,45,"Dessers, swees",,0
+Mince,1 slice,135,340,3,9,8,0.7,62,"Dessers, swees",,0
+Pumpkin Pie,1 slice,130,265,5,12,11,8,34,"Dessers, swees",,1
+Puddings Sugar,1 cup,200,770,0,0,0,0,199,"Dessers, swees",,0
+3 easpoons sugar,1 .,12,50,0,0,0,0,12,"Dessers, swees",,1
+"Brown, firm-packed, dark sugar",1 cup,220,815,0,,0,0,210,"Jams, Jellies",,1
+Syrup,2 .,40,100,0,0,0,0,25,"Jams, Jellies",,1
+able blends sugar,2 .,40,110,0,0,0,0,29,"Jams, Jellies",,0
+apioca cream pudding,1 cup,250,335,10,10,9,0,42,"Dessers, swees",,1
+Almonds,1/2 cup,70,425,13,38,28,1.8,13,Seeds and Nus,healhy,1
+roased and saled,1/2 cup,70,439,13,40,31,1.8,13,Seeds and Nus,,0
+Brazil nus,1/2 cup,70,457,10,47,31,2,7,Seeds and Nus,,1
+Cashews,1/2 cup,70,392,12,32,28,0.9,20,Seeds and Nus,Healhy,1
+coconu sweeened,1/2 cup,50,274,1,20,19,2,26,Seeds and Nus,,0
+Peanu buer,1/3 cup,50,300,12,25,17,0.9,9,Seeds and Nus,,0
+"Peanu buer, naural",1/3 cup,50,284,13,24,10,0.9,8,Seeds and Nus,,0
+Peanus,1/3 cup,50,290,13,25,16,1.2,9,Seeds and Nus,Healhy,1
+Pecans,1/2 cup,52,343,5,35,25,1.1,7,Seeds and Nus,,0
+Sesame seeds,1/2 cup,50,280,9,24,13,3.1,10,Seeds and Nus,,1
+Sunflower seeds,1/2 cup,50,280,12,26,7,1.9,10,Seeds and Nus,,1
+Walnus,1/2 cup,50,325,7,32,7,1,8,Seeds and Nus,Healhy,1
+Beer,2 cups,480,228,,0,0,0,8,"Drinks,Alcohol, Beverages",Unhealhy,1
+Gin,1 oz.,28,70,0,0,0,0,,"Drinks,Alcohol, Beverages",Unhealhy,1
+Wines,1/2 cup,120,164,,0,0,0,9,"Drinks,Alcohol, Beverages",Unhealhy,0
+able (12.2% alcohol),1/2 cup,120,100,,0,0,0,5,"Drinks,Alcohol, Beverages",,0
+Carbonaed drinks Arificially sweeened,12 oz.,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages",Unhealhy,0
+Club soda,12 oz.,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages",Unhealhy,1
+Cola drinks,12 oz.,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages",Unhealhy,0
+Frui-flavored soda,12 oz.,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages",Unhealhy,0
+Ginger ale,12 oz.,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages",,0
+Roo beer,12 oz.,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages",,1
+Coffee,1 cup,230,3,,0,0,0,1,"Drinks,Alcohol, Beverages",Unhealhy,0
+ea,1 cup,230,4,0,,0,0,1,"Drinks,Alcohol, Beverages",,0

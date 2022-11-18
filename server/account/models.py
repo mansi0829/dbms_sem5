@@ -75,12 +75,21 @@ class User(AbstractBaseUser):
 
 #  Custom Upload Model
 class Upload(AbstractBaseUser):
-  carbohydrates = models.CharField(max_length=200)
-  protiens = models.CharField(max_length=200)
+  grams = models.CharField(max_length=200)
+  calories = models.CharField(max_length=200)
+  protein = models.CharField(max_length=200)
   fats = models.CharField(max_length=200)
-  vitamins = models.CharField(max_length=200)
+  saturated_fats = models.CharField(max_length=200)
+  fiber = models.CharField(max_length=200)
+  carbohydrates = models.CharField(max_length=200)
+
+
   created_at = models.DateTimeField(auto_now_add=True)
+
+
   def __int__ (self):
-    return self.carbohydrates ,self.protiens, self.fats, self.vitamins
+    return self.grams ,self.calories, self.protein, self.fats, self.saturated_fats, self.fiber, self.carbohydrates
+
+    
 
 

@@ -73,9 +73,18 @@ class UploadData(APIView):
   def post(self, request, format=None):
     serializer = UploadDataSerializer(data=request.data)
     serializer.is_valid(raise_exception=True)
-    carbohydrates = serializer.data.get('carbohydrates')
-    protiens = serializer.data.get('protiens')
+    grams = serializer.data.get('grams')
+    calories = serializer.data.get('calories')
+    protein = serializer.data.get('protein')
     fats = serializer.data.get('fats')
-    vitamins = serializer.data.get('vitamins')
-    return Response({'carbohydrates': carbohydrates,'protiens':protiens, 'fats':fats,'vitamins':vitamins,'msg':'Upload Successful'}, status=status.HTTP_201_CREATED)
+    saturated_fats = serializer.data.get('saturated_fats')
+    fiber = serializer.data.get('fiber')
+    carbohydrates = serializer.data.get('carbohydrates')
+    return Response({'grams': grams,'calories':calories, 'protein':protein,'fats':fats,'saturated_fats':saturated_fats,'fiber':fiber,'carbohydrates':carbohydrates,'msg':'Upload Successful'}, status=status.HTTP_201_CREATED)
    
+  #model = pd.read_pickle('/home/sharvi/Desktop/Project/dbms_sem5/ml/model.pkl')
+
+  #result = model.predict([[grams,calories,protein,fats,saturated_fat,fiber,carbohydrates]])
+
+  #return Response({'result':result[0]}, status=status.HTTP_201_CREATED)
+  
