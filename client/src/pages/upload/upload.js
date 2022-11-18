@@ -1,7 +1,8 @@
-import React, {  useState } from "react";
+import React, { useState } from "react";
 import { Formik, Form, Field } from "formik";
 import { Requests } from "../../utils/Index";
 import { toast } from "react-toastify";
+import Processing from "../../components/Processing/Processing";
 
 const Upload = (props) => {
   const [loading, setLoading] = useState(false);
@@ -13,10 +14,13 @@ const Upload = (props) => {
       <>
         <Formik
           initialValues={{
-            carbohydrates: "",
+            grams: "",
+            calories: "",
             protiens: "",
             fats: "",
-            vitamins: "",
+            saturated_fats: "",
+            fiber: "",
+            carbohydrates: "",
           }}
           onSubmit={async (values) => {
             setLoading(true);
@@ -45,18 +49,18 @@ const Upload = (props) => {
                     <div className="p-3">
                       <Field
                         className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
-                        placeholder={"Carbohydrates"}
-                        name={"carbohydrates"}
-                        type={"carbohydrates"}
+                        placeholder={"grams"}
+                        name={"grams"}
+                        type={"grams"}
                         onChange={formik.handleChange}
                       />
                     </div>
                     <div className="p-3">
                       <Field
                         className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
-                        placeholder={"Protiens"}
-                        name={"protiens"}
-                        type={"protiens"}
+                        placeholder={"calories"}
+                        name={"calories"}
+                        type={"calories"}
                         onChange={formik.handleChange}
                       />
                     </div>
@@ -65,31 +69,61 @@ const Upload = (props) => {
                     <div className="p-3">
                       <Field
                         className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
-                        placeholder={"Fats"}
-                        name={"fats"}
-                        type={"fats"}
+                        placeholder={"protein"}
+                        name={"protein"}
+                        type={"protein"}
                         onChange={formik.handleChange}
                       />
                     </div>
                     <div className="p-3">
                       <Field
                         className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
-                        placeholder={"Vitamins"}
-                        name={"vitamins"}
-                        type={"vitamins"}
+                        placeholder={"fats"}
+                        name={"fats"}
+                        type={"fats"}
                         onChange={formik.handleChange}
                       />
                     </div>
                   </div>
+                  <div className="flex">
+                    <div className="p-3">
+                      <Field
+                        className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder={"Saturated Fats"}
+                        name={"saturated_fats"}
+                        type={"saturated_fats"}
+                        onChange={formik.handleChange}
+                      />
+                    </div>
+                    <div className="p-3">
+                      <Field
+                        className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
+                        placeholder={"Fiber"}
+                        name={"fiber"}
+                        type={"fiber"}
+                        onChange={formik.handleChange}
+                      />
+                    </div>
+                  </div>
+                  <div className="p-3">
+                    <Field
+                      className="w-full text-gray-500 px-4 py-2 mt-2 border rounded-md focus:outline-none focus:ring-1 focus:ring-blue-600"
+                      placeholder={"Carbohydrates"}
+                      name={"carbohydrates"}
+                      type={"carbohydrates"}
+                      onChange={formik.handleChange}
+                    />
+                  </div>
                   <div className="flex items-baseline justify-center py-3">
-                    <button
+                    {/* <button
                       className="shadow bg-indigo-600 hover:bg-indigo-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-6 rounded"
                       type="button"
                       onClick={formik.handleSubmit}
                       disabled={loading ? true : false}
                     >
                       {loading ? <>loading..</> : "Upload"}
-                    </button>
+                    </button> */}
+                    <Processing/>
                   </div>
                 </Form>
               </div>
